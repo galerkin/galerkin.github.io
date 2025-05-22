@@ -1,0 +1,4 @@
+baseURL = 'https://eomj.github.io/'
+languageCode = 'en-us'
+title = 'Eom J Resume & Blog'
+theme = 'hugo-bearblog'
