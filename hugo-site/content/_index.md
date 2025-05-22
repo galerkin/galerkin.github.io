@@ -9,6 +9,6 @@ draft: false
 
 - [About](/about/)
 - [Resume](/resume/)
-- Blog
+- [Blog](/blog/)
 
 이 사이트는 Hugo Bear 테마와 GitHub Pages를 활용하여 구축되었습니다.
