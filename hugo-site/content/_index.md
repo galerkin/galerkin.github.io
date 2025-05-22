@@ -4,11 +4,10 @@ date: 2025-05-21T00:00:00+09:00
 draft: false
 ---
 
-# Eom J의 Hugo 블로그에 오신 것을 환영합니다!
-
+# Eom J
 
 - [About](/about/)
 - [Resume](/resume/)
 - [Blog](/blog/)
 
-이 사이트는 Hugo Bear 테마와 GitHub Pages를 활용하여 구축되었습니다.
+This site is built with the Hugo Bear theme and deployed using GitHub Pages.
