@@ -10,4 +10,4 @@ draft: false
 
 Below are the latest blog posts.
 
-{{< list-pages path="blog" >}}
+{{< list-pages path="/blog/" >}}
