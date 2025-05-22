@@ -1,10 +1,10 @@
-baseURL = 'https://eomj.github.io/'
+baseURL = 'https:/galerkin.github.io/'
 languageCode = 'ko'
-title = 'Eom J Resume & Blog'
+title = 'Jaesung Eom'
 theme = 'hugo-bearblog'
 [pagination]
   pagerSize = 5
 summaryLength = 30
 [params]
-  description = 'Eom J의 기술 블로그와 이력서, Hugo Bear 테마 기반'
-  author = 'Eom J'
+  description = 'Jaesung'
+  author = 'Jaesung Eom'
