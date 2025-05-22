@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Eom J Resume &amp; Blog</title><link>https://eomj.github.io/</link><description>Recent content in Home on Eom J Resume &amp; Blog</description><generator>Hugo</generator><language>ko</language><lastBuildDate>Wed, 21 May 2025 11:00:00 +0900</lastBuildDate><atom:link href="https://eomj.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>두 번째 블로그 글</title><link>https://eomj.github.io/blog/second-post/</link><pubDate>Wed, 21 May 2025 11:00:00 +0900</pubDate><guid>https://eomj.github.io/blog/second-post/</guid><description>&lt;p>두 번째 샘플 블로그 글입니다. Hugo의 강력한 기능과 Bear 테마의 심플한 디자인을 경험해보세요.&lt;/p>
+&lt;ul>
+&lt;li>마크다운 기반 콘텐츠 작성&lt;/li>
+&lt;li>손쉬운 테마 커스터마이즈&lt;/li>
+&lt;/ul>
+&lt;p>궁금한 점이 있으면 언제든 문의해 주세요!&lt;/p></description></item><item><title>첫 번째 블로그 글</title><link>https://eomj.github.io/blog/first-post/</link><pubDate>Wed, 21 May 2025 10:00:00 +0900</pubDate><guid>https://eomj.github.io/blog/first-post/</guid><description>&lt;p>이것은 Hugo Bear 테마로 작성된 첫 번째 샘플 블로그 글입니다.&lt;/p>
+&lt;ul>
+&lt;li>Hugo와 GitHub Pages를 활용한 정적 사이트 구축&lt;/li>
+&lt;li>빠른 배포와 쉬운 관리&lt;/li>
+&lt;/ul>
+&lt;p>더 많은 글이 곧 추가될 예정입니다!&lt;/p></description></item><item><title>About</title><link>https://eomj.github.io/about/</link><pubDate>Wed, 21 May 2025 00:00:00 +0900</pubDate><guid>https://eomj.github.io/about/</guid><description>&lt;p>안녕하세요! 저는 Eom J입니다.&lt;/p>
+&lt;ul>
+&lt;li>Full Stack Developer&lt;/li>
+&lt;li>React, TypeScript, Node.js, Tailwind CSS, Hugo&lt;/li>
+&lt;li>이 사이트는 Hugo Bear 테마로 만들어졌으며, GitHub Pages에 배포됩니다.&lt;/li>
+&lt;/ul>
+&lt;p>더 자세한 이력 및 프로젝트는 Resume 페이지를 참고하세요.&lt;/p></description></item><item><title>Resume</title><link>https://eomj.github.io/resume/</link><pubDate>Wed, 21 May 2025 00:00:00 +0900</pubDate><guid>https://eomj.github.io/resume/</guid><description>&lt;h2 id="eom-j-resume">Eom J Resume&lt;/h2>
+&lt;p>&lt;strong>Email:&lt;/strong> &lt;a href="mailto:eomj@email.com">eomj@email.com&lt;/a>&lt;br>
+&lt;strong>GitHub:&lt;/strong> &lt;a href="https://github.com/eomj">github.com/eomj&lt;/a>&lt;br>
+&lt;strong>Location:&lt;/strong> Seoul, South Korea&lt;/p>
+&lt;h3 id="summary">Summary&lt;/h3>
+&lt;ul>
+&lt;li>웹 애플리케이션 개발 및 아키텍처 설계 경험&lt;/li>
+&lt;li>React, TypeScript, Node.js, Tailwind CSS, Hugo 활용&lt;/li>
+&lt;li>클린 코드와 문서화, 자동화된 배포에 관심&lt;/li>
+&lt;/ul>
+&lt;h3 id="skills">Skills&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Frontend:&lt;/strong> React, Next.js, Tailwind CSS&lt;/li>
+&lt;li>&lt;strong>Backend:&lt;/strong> Node.js, Express&lt;/li>
+&lt;li>&lt;strong>Database:&lt;/strong> PostgreSQL, MongoDB&lt;/li>
+&lt;li>&lt;strong>DevOps:&lt;/strong> GitHub Actions, Hugo, GitHub Pages&lt;/li>
+&lt;/ul>
+&lt;h3 id="experience">Experience&lt;/h3>
+&lt;ul>
+&lt;li>Tech Company, Full Stack Developer (2022–Present)&lt;/li>
+&lt;li>Startup, Frontend Developer (2020–2022)&lt;/li>
+&lt;/ul>
+&lt;h3 id="education">Education&lt;/h3>
+&lt;ul>
+&lt;li>B.S. in Computer Science, Korea University, 2020&lt;/li>
+&lt;/ul></description></item></channel></rss>
