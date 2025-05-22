@@ -10,4 +10,4 @@ draft: false
 
 Below are the latest blog posts.
 
-{{< list-pages path="/blog/" >}}
+<!-- Blog posts will be listed automatically by Hugo Bear theme. -->
