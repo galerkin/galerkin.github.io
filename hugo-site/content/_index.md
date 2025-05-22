@@ -9,5 +9,3 @@ draft: false
 - [About](/about/)
 - [Resume](/resume/)
 - [Blog](/blog/)
-
-This site is built with the Hugo Bear theme and deployed using GitHub Pages.

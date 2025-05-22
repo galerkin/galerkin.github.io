@@ -6,8 +6,8 @@ draft: false
 
 [← Home](/)
 
-# 블로그 글 목록
+# Blog Posts
 
-아래는 최신 블로그 글입니다.
+Below are the latest blog posts.
 
-{{< blog >}}
+{{< list-pages path="blog" >}}
