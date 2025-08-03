@@ -19,15 +19,16 @@
 &lt;h3 id="summary">Summary&lt;/h3>
 &lt;h3 id="skills">Skills&lt;/h3>
 &lt;ul>
-&lt;li>&lt;strong>Numericaal Computing:&lt;/strong> Iterative solvers, Finite element methods, Meshless methods, Inverse problems&lt;/li>
+&lt;li>&lt;strong>Numerical Computing:&lt;/strong> Iterative solvers, Finite element methods, Meshless methods, Inverse problems&lt;/li>
+&lt;li>&lt;strong>Prototype with Agent:&lt;/strong> OpenAI Agent SDK with tool calling (MCP), Langchain, Langgraph&lt;/li>
 &lt;li>&lt;strong>Programming Languages:&lt;/strong> Python, C/C++, FORTRAN&lt;/li>
 &lt;/ul>
 &lt;h3 id="experience">Experience&lt;/h3>
 &lt;ul>
-&lt;li>Autodesk (2011-)&lt;/li>
-&lt;li>RPI, NY&lt;/li>
-&lt;li>UC Irvine, CA&lt;/li>
-&lt;li>FEASoft, South Korea&lt;/li>
+&lt;li>Autodesk (2011-): Research Engineer&lt;/li>
+&lt;li>RPI, NY: Post doc researcher&lt;/li>
+&lt;li>UC Irvine, CA: Post doc&lt;/li>
+&lt;li>FEASoft, South Korea: FEA developer&lt;/li>
 &lt;/ul>
 &lt;h3 id="education">Education&lt;/h3>
 &lt;ul>
