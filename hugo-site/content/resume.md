@@ -14,14 +14,16 @@ draft: false
 ### Summary
 
 ### Skills
-- **Numericaal Computing:** Iterative solvers, Finite element methods, Meshless methods, Inverse problems
+- **Numerical Computing:** Iterative solvers, Finite element methods, Meshless methods, Inverse problems
+- **Prototype with Agent:** OpenAI Agent SDK with tool calling (MCP), Langchain, Langgraph
 - **Programming Languages:** Python, C/C++, FORTRAN
 
 ### Experience
-- Autodesk (2011-)
-- RPI, NY 
-- UC Irvine, CA
-- FEASoft, South Korea
+- Autodesk (2011-): Research Engineer
+- RPI, NY: Post doc researcher
+- UC Irvine, CA: Post doc
+- FEASoft, South Korea: FEA developer
+
 
 ### Education
 - Ph.D. in Mechanical Engineering, KAIST, 2007
