@@ -1,4 +1,8 @@
-+++ title = "Home" menu = "main" weight = 1 +++
++++
+title = "Home"
+menu = "main"
+weight = 1
++++
 
 # Always Be Curious
 
