@@ -31,7 +31,7 @@ hugo server -D
 - `.vibe/tasks.md` : 작업 관리
 
 ---
-문의: eomj@email.com
+문의: jaesung.eom@지메일
 
 # run locally
 ```bash
