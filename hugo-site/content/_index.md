@@ -1,8 +1,4 @@
----
-title: "Home"
-date: 2025-05-21T00:00:00+09:00
-draft: false
----
++++ title = "Home" menu = "main" weight = 1 +++
 
 # Always Be Curious
 
