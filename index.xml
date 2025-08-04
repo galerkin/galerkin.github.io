@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Jaesung Eom</title><link>https://galerkin.github.io/</link><description>Recent content in Home on Jaesung Eom</description><generator>Hugo</generator><language>ko</language><lastBuildDate>Sun, 03 Aug 2025 10:00:00 +0900</lastBuildDate><atom:link href="https://galerkin.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>notion embed</title><link>https://galerkin.github.io/blog/notion-embed/</link><pubDate>Sun, 03 Aug 2025 10:00:00 +0900</pubDate><guid>https://galerkin.github.io/blog/notion-embed/</guid><description>&lt;p>테스트 갑니다&lt;/p>
-&lt;iframe src="https://cotidie.notion.site/ebd/c8b12528ef1649c18fab3396959cd0fe" width="100%" height="600" frameborder="0" allowfullscreen>&lt;/iframe></description></item><item><title>Resume</title><link>https://galerkin.github.io/resume/</link><pubDate>Wed, 21 May 2025 00:00:00 +0900</pubDate><guid>https://galerkin.github.io/resume/</guid><description>&lt;h2 id="eom-j-resume">Eom J Resume&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Jaesung</title><link>https://galerkin.github.io/</link><description>Recent content in Home on Jaesung</description><generator>Hugo</generator><language>ko</language><lastBuildDate>Sun, 03 Aug 2025 10:00:00 +0900</lastBuildDate><atom:link href="https://galerkin.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>notion embed</title><link>https://galerkin.github.io/blog/notion-embed/</link><pubDate>Sun, 03 Aug 2025 10:00:00 +0900</pubDate><guid>https://galerkin.github.io/blog/notion-embed/</guid><description>&lt;p>테스트 갑니다&lt;/p>
+&lt;!-- raw HTML omitted --></description></item><item><title>About</title><link>https://galerkin.github.io/about/</link><pubDate>Wed, 21 May 2025 00:00:00 +0900</pubDate><guid>https://galerkin.github.io/about/</guid><description>&lt;h2 id="about">About&lt;/h2>
 &lt;p>&lt;strong>Email:&lt;/strong> jaesung_dot_eom_at_gmail.com&lt;br>
 &lt;strong>Location:&lt;/strong> Pittsburgh, PA, USA&lt;/p>
 &lt;h3 id="summary">Summary&lt;/h3>
 &lt;h3 id="skills">Skills&lt;/h3>
 &lt;ul>
 &lt;li>&lt;strong>Numerical Computing:&lt;/strong> Iterative solvers, Finite element methods, Meshless methods, Inverse problems&lt;/li>
-&lt;li>&lt;strong>Prototype with Agent:&lt;/strong> OpenAI Agent SDK with tool calling (MCP), Langchain, Langgraph&lt;/li>
-&lt;li>&lt;strong>Programming Languages:&lt;/strong> Python, C/C++, FORTRAN&lt;/li>
+&lt;li>&lt;strong>Prototype with Agent:&lt;/strong> Organize apps with LLM - anything Langchain, Langgraph, Azure OpenAI, AWS Bedrock&lt;/li>
+&lt;li>&lt;strong>Programming Languages:&lt;/strong> Python, C/C++, FORTRAN, Golang, rust&lt;/li>
 &lt;/ul>
 &lt;h3 id="experience">Experience&lt;/h3>
 &lt;ul>
