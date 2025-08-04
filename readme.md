@@ -23,15 +23,9 @@ hugo server -D
 - `hugo-site/` : Hugo 프로젝트 루트
   - `content/` : 페이지 및 블로그 글
   - `themes/hugo-bearblog/` : Bear 테마
-  - `public/` : 빌드 결과물(자동 생성)
 
 ## 참고
 - `.github/workflows/gh-pages.yml` : GitHub Actions 워크플로우 파일
-- `.vibe/prd.md` : 제품 요구사항
-- `.vibe/tasks.md` : 작업 관리
-
----
-문의: jaesung.eom@지메일
 
 # run locally
 ```bash
