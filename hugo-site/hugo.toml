@@ -1,6 +1,6 @@
 baseURL = 'https://galerkin.github.io/'
 languageCode = 'ko'
-title = 'Jaesung Eom'
+title = 'Jaesung'
 theme = 'hugo-bearblog'
 [pagination]
   pagerSize = 5
@@ -8,5 +8,3 @@ summaryLength = 30
 [params]
   description = 'Jaesung'
   author = 'Jaesung Eom'
-[markup.goldmark.renderer]
-  unsafe = true
