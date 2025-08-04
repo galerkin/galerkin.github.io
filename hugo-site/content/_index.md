@@ -4,10 +4,12 @@ menu = "main"
 weight = 1
 +++
 
-# Always Be Curious
+# Brain dump repo
+일상다반사를 뇌안에서 꺼내서 적고 바라보기
 
-# Status
-2025-08-03 revamp this page
+## Recent Posts
+
+{{< recent-posts count="5" >}}
 
 ---
 
