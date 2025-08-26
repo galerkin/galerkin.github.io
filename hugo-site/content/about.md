@@ -8,9 +8,6 @@ menu: main
 ## About
 
 **Email:** jaesung_dot_eom_at_gmail.com  
-**Location:** Pittsburgh, PA, USA
-
-### Summary
 
 ### Skills
 - **Numerical Computing:** Iterative solvers, Finite element methods, Meshless methods, Inverse problems
