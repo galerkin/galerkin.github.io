@@ -1,32 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Brain dump</title><link>https://galerkin.github.io/blog/</link><description>Recent content in Blog on Brain dump</description><generator>Hugo</generator><language>ko</language><lastBuildDate>Tue, 12 Aug 2025 10:00:00 +0900</lastBuildDate><atom:link href="https://galerkin.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>test mermaid</title><link>https://galerkin.github.io/blog/notion-embed/</link><pubDate>Tue, 12 Aug 2025 10:00:00 +0900</pubDate><guid>https://galerkin.github.io/blog/notion-embed/</guid><description>&lt;h2 id="flexsim-configuration-overview">FlexSim configuration overview&lt;/h2>
-&lt;p>This diagram shows how configuration files point to the FlexSim executable and how the validation logic checks for its existence.&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-mermaid" data-lang="mermaid">flowchart TD
- subgraph Config[Configuration Files]
- A[&amp;#34;HelloWorld/paths.py:3&amp;#34;]
- B[&amp;#34;Elevator/paths.py:3&amp;#34;]
- C[&amp;#34;PickingModel/paths.py:3&amp;#34;]
- end
-
- subgraph FlexSim[FlexSim Installation]
- F[&amp;#34;C:/Program Files/FlexSim 2024/program/flexsim.exe&amp;#34;]
- end
-
- subgraph Validation[Validation Logic]
- V[&amp;#34;os.path.exists(flexsim)&amp;#34;]
- end
-
- A --&amp;gt; F
- B --&amp;gt; F
- C --&amp;gt; F
- F --&amp;gt; V
-
- style Config fill:#111827,stroke:#374151,stroke-width:1px,color:#ffffff
- style FlexSim fill:#0b1220,stroke:#374151,stroke-width:1px,color:#ffffff
- style Validation fill:#111827,stroke:#374151,stroke-width:1px,color:#ffffff
-&lt;/code>&lt;/pre>&lt;p>Notes:&lt;/p>
-&lt;ul>
-&lt;li>Replace the executable path with your actual FlexSim install path if different.&lt;/li>
-&lt;/ul></description></item><item><title>식겁한 순간</title><link>https://galerkin.github.io/blog/notion-embed/</link><pubDate>Mon, 04 Aug 2025 10:00:00 +0900</pubDate><guid>https://galerkin.github.io/blog/notion-embed/</guid><description>&lt;p>VP, SVP 가득하고 디렉터들이 발에 채이는 슬랙 채널을 내손을 날려보는 순간이 오다니.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Brain dump</title><link>https://galerkin.github.io/blog/</link><description>Recent content in Blog on Brain dump</description><generator>Hugo</generator><language>ko</language><lastBuildDate>Mon, 04 Aug 2025 10:00:00 +0900</lastBuildDate><atom:link href="https://galerkin.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>식겁한 순간</title><link>https://galerkin.github.io/blog/notion-embed/</link><pubDate>Mon, 04 Aug 2025 10:00:00 +0900</pubDate><guid>https://galerkin.github.io/blog/notion-embed/</guid><description>&lt;p>VP, SVP 가득하고 디렉터들이 발에 채이는 슬랙 채널을 내손을 날려보는 순간이 오다니.
 몇 분사이 거부-&amp;gt;상심-&amp;gt;체념-&amp;gt;받아들임은 겪고, Chief of staff에게 하소연해서 원상복구.
 생각만 해도 땀나네.&lt;/p></description></item><item><title>notion embed</title><link>https://galerkin.github.io/blog/notion-embed/</link><pubDate>Sun, 03 Aug 2025 10:00:00 +0900</pubDate><guid>https://galerkin.github.io/blog/notion-embed/</guid><description>&lt;p>테스트 갑니다&lt;/p>
 &lt;iframe src="https://cotidie.notion.site/ebd/c8b12528ef1649c18fab3396959cd0fe" width="100%" height="600" frameborder="0" allowfullscreen>&lt;/iframe></description></item></channel></rss>
