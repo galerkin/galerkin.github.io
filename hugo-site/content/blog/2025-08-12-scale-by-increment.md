@@ -1,5 +1,5 @@
 ---
-title: 2025-08-12-test
+title: test mermaid
 date: 2025-08-12T10:00:00+09:00
 draft: false
 slug: notion-embed
