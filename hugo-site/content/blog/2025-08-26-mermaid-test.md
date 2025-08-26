@@ -10,4 +10,4 @@ categories: []
 
 test embed image
 
-![alt text](image.png)
+![alt text](./image.png)
