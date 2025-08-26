@@ -7,3 +7,7 @@ draft: false
 tags: []
 categories: []
 ---
+
+test embed image
+
+![alt text](image.png)
