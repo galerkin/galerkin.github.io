@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Brain dump</title><link>https://galerkin.github.io/</link><description>Recent content in Home on Brain dump</description><generator>Hugo</generator><language>ko</language><lastBuildDate>Tue, 26 Aug 2025 01:32:07 +0000</lastBuildDate><atom:link href="https://galerkin.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>mermaid test</title><link>https://galerkin.github.io/blog/2025-08-26-mermaid-test/</link><pubDate>Tue, 26 Aug 2025 01:32:07 +0000</pubDate><guid>https://galerkin.github.io/blog/2025-08-26-mermaid-test/</guid><description>&lt;p>test embed image&lt;/p>
-&lt;p>&lt;img src="https://galerkin.github.io/blog/image.png" alt="alt text">&lt;/p></description></item><item><title>notion embed</title><link>https://galerkin.github.io/blog/notion-embed/</link><pubDate>Sun, 03 Aug 2025 10:00:00 +0900</pubDate><guid>https://galerkin.github.io/blog/notion-embed/</guid><description>&lt;p>테스트 갑니다&lt;/p>
-&lt;iframe src="https://cotidie.notion.site/ebd/c8b12528ef1649c18fab3396959cd0fe" width="100%" height="600" frameborder="0" allowfullscreen>&lt;/iframe></description></item><item><title>About</title><link>https://galerkin.github.io/about/</link><pubDate>Wed, 21 May 2025 00:00:00 +0900</pubDate><guid>https://galerkin.github.io/about/</guid><description>&lt;h2 id="about">About&lt;/h2>
-&lt;p>&lt;strong>Email:&lt;/strong> jaesung_dot_eom_at_gmail.com&lt;/p>
-&lt;h3 id="skills">Skills&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Numerical Computing:&lt;/strong> Iterative solvers, Finite element methods, Meshless methods, Inverse problems&lt;/li>
-&lt;li>&lt;strong>Prototype with Agent:&lt;/strong> Organize apps with LLM - anything Langchain, Langgraph, Azure OpenAI, AWS Bedrock&lt;/li>
-&lt;li>&lt;strong>Programming Languages:&lt;/strong> Python, C/C++, FORTRAN, Golang, rust&lt;/li>
-&lt;/ul>
-&lt;h3 id="experience">Experience&lt;/h3>
-&lt;ul>
-&lt;li>Autodesk (2011-): Research Engineer&lt;/li>
-&lt;li>RPI, NY: Post doc researcher&lt;/li>
-&lt;li>UC Irvine, CA: Post doc&lt;/li>
-&lt;li>FEASoft, South Korea: FEA developer&lt;/li>
-&lt;/ul>
-&lt;h3 id="education">Education&lt;/h3>
-&lt;ul>
-&lt;li>Ph.D. in Mechanical Engineering, KAIST, 2007&lt;/li>
-&lt;li>M.S. in Mechanical Engineering, KAIST, 2000&lt;/li>
-&lt;li>B.S. in Mechanical Engineering, KAIST, 1998&lt;/li>
-&lt;/ul></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Brain dump</title><link>https://galerkin.github.io/</link><description>Recent content in Home on Brain dump</description><generator>Hugo</generator><language>ko</language><lastBuildDate>Tue, 26 Aug 2025 01:32:07 +0000</lastBuildDate><atom:link href="https://galerkin.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>mermaid test</title><link>https://galerkin.github.io/blog/2025-08-26-mermaid-test/</link><pubDate>Tue, 26 Aug 2025 01:32:07 +0000</pubDate><guid>https://galerkin.github.io/blog/2025-08-26-mermaid-test/</guid><description>&lt;p&gt;test embed image&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://galerkin.github.io/blog/image.png" alt="alt text"&gt;&lt;/p&gt;</description></item><item><title>notion embed</title><link>https://galerkin.github.io/blog/notion-embed/</link><pubDate>Sun, 03 Aug 2025 10:00:00 +0900</pubDate><guid>https://galerkin.github.io/blog/notion-embed/</guid><description>&lt;p&gt;테스트 갑니다&lt;/p&gt;
+&lt;iframe src="https://cotidie.notion.site/ebd/c8b12528ef1649c18fab3396959cd0fe" width="100%" height="600" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</description></item><item><title>About</title><link>https://galerkin.github.io/about/</link><pubDate>Wed, 21 May 2025 00:00:00 +0900</pubDate><guid>https://galerkin.github.io/about/</guid><description>&lt;h2 id="about"&gt;About&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; jaesung_dot_eom_at_gmail.com&lt;/p&gt;
+&lt;h3 id="skills"&gt;Skills&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Numerical Computing:&lt;/strong&gt; Iterative solvers, Finite element methods, Meshless methods, Inverse problems&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prototype with Agent:&lt;/strong&gt; Organize apps with LLM - anything Langchain, Langgraph, Azure OpenAI, AWS Bedrock&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Programming Languages:&lt;/strong&gt; Python, C/C++, FORTRAN, Golang, rust&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="experience"&gt;Experience&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Autodesk (2011-): Research Engineer&lt;/li&gt;
+&lt;li&gt;RPI, NY: Post doc researcher&lt;/li&gt;
+&lt;li&gt;UC Irvine, CA: Post doc&lt;/li&gt;
+&lt;li&gt;FEASoft, South Korea: FEA developer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="education"&gt;Education&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ph.D. in Mechanical Engineering, KAIST, 2007&lt;/li&gt;
+&lt;li&gt;M.S. in Mechanical Engineering, KAIST, 2000&lt;/li&gt;
+&lt;li&gt;B.S. in Mechanical Engineering, KAIST, 1998&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
