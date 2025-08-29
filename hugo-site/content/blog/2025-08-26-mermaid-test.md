@@ -8,6 +8,15 @@ tags: []
 categories: []
 ---
 
-test embed image
+# test embed image
 
 ![alt text](/blog/image.png)
+
+# mermaid
+
+{{< mermaid >}}
+graph LR
+    A[Start] --> B{Decision}
+    B -->|Yes| C[Action 1]
+    B -->|No| D[Action 2]
+{{< /mermaid >}}
