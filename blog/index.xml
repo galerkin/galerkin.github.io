@@ -8,4 +8,4 @@ graph LR
  B --&gt;|Yes| C[Action 1]
  B --&gt;|No| D[Action 2]
 &lt;/div&gt;</description></item><item><title>notion embed</title><link>https://galerkin.github.io/blog/notion-embed/</link><pubDate>Sun, 03 Aug 2025 10:00:00 +0900</pubDate><guid>https://galerkin.github.io/blog/notion-embed/</guid><description>&lt;p&gt;테스트 갑니다&lt;/p&gt;
-&lt;iframe src="https://cotidie.notion.site/ebd/c8b12528ef1649c18fab3396959cd0fe" width="100%" height="100%" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</description></item></channel></rss>
+&lt;iframe src="https://cotidie.notion.site/ebd/c8b12528ef1649c18fab3396959cd0fe" width="100%" height="900" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</description></item></channel></rss>
